@@ -1,4 +1,4 @@
-# 🚀 FDE AI Projects
+# 🚧 Building in public | Target: FDE + SRE + DEVOPS + AI Engineer roles by 2026
 
 This repository contains a collection of **AI-powered, Full-Stack Development Engineering (FDE) projects** focused on:
 
