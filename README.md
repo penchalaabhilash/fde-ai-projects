@@ -23,12 +23,26 @@ To design and build **production-grade AI systems** that simulate real-world eng
 
 ## 🧠 Flagship Projects
 
-### 1️⃣ AI SRE Copilot (In Progress 🚧)
+### 1️⃣ AI SRE Copilot
 An intelligent system that:
 - Analyzes logs & metrics
 - Detects incidents
 - Suggests remediation actions
 - Automates SRE workflows
+
+This repository contains hands-on AI projects focused on:
+
+- AI for SRE (Site Reliability Engineering)
+- Automation & Copilots
+- Real-world debugging assistants
+
+## Projects
+
+### 01_ai_sre_copilot
+AI-powered assistant for:
+- Log analysis
+- Incident summarization
+- Root cause suggestions
 
 ---
 
